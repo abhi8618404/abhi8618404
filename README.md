@@ -25,9 +25,6 @@ Recent B.Tech graduate with a dual focus in **Data Analytics** and **Backend Dev
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**ELT (Extract, Load, Transform):**
-- Experience designing and implementing ELT pipelines for efficient data ingestion, transformation, and analysis.
-- Automated extraction from multiple sources, loading into databases/data warehouses, and transforming data for analytics and reporting.
 
 ### 🛠 Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -115,4 +112,5 @@ Recent B.Tech graduate with a dual focus in **Data Analytics** and **Backend Dev
 ---
 
 Thanks for visiting my profile! I'm always open to collaboration, feedback, or new opportunities in **data analytics** and **backend development**. 🚀
+
 
