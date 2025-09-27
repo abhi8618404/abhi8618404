@@ -4,7 +4,7 @@
 
 
 🎓 B.Tech in **Artificial Intelligence & Machine Learning** (2025) | REVA University   
-📊 Aspiring **Java Developer** |  **Java • SQL • Spring Boot**  
+📊 Graduate **Computer Science** |  **Java •Python• SQL • Spring Boot**  
 📍 Bengaluru, India  
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1IZpTM_OFdCw27YXmhgp6HWsi0Wegw_kH/view?usp=drive_link)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-b-2758413444)  
@@ -16,9 +16,7 @@
  
 ## 🚀 About Me  
 
-Passionate Java Backend Developer with hands-on experience in building scalable applications using **Java**, **Spring Boot**, **REST APIs**, and **MySQL**.  
-Skilled in **Data Structures & Algorithms**, **Hibernate ORM**, and **Microservices Architecture**, with practical project experience in **employee management systems**, **attendance automation**, and **library management**.  
-Eager to contribute technical expertise in designing efficient backend solutions and delivering high-quality, maintainable code.
+Recent B.Tech graduate with a strong foundation in Data Analytics and Java Development. Skilled in Python, SQL, and Java for building data-driven applications, analyzing large datasets, and developing scalable back-end solutions. Experienced in extracting insights through data visualization and implementing efficient algorithms in Java. Strong problem-solving and communication skills with a keen interest in modern data engineering and cloud-based platforms.
 
 
 
