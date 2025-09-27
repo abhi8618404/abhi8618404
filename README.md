@@ -3,7 +3,6 @@
 🎓 B.Tech in *Artificial Intelligence & Machine Learning* (2025) | REVA University  
 📊 Graduate *Computer Science* | *Data Analytics • Backend Development • Python • Java • SQL • Spring Boot*  
 📍 Bengaluru, India  
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1IZpTM_OFdCw27YXmhgp6HWsi0Wegw_kH/view?usp=drive_link)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-b-2758413444)  
 
 ---
@@ -116,3 +115,4 @@ Recent B.Tech graduate with a dual focus in **Data Analytics** and **Backend Dev
 ---
 
 Thanks for visiting my profile! I'm always open to collaboration, feedback, or new opportunities in **data analytics** and **backend development**. 🚀
+
